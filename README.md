@@ -24,6 +24,8 @@ npm run dev
 ```
 
 ### Email Setup (Optional - to receive booking inquiries via email)
+If mail is required
+
 1. Go to [Web3Forms](https://web3forms.com/) and enter your email to get a free Access Key
 2. Create a `.env` file:
    ```env
